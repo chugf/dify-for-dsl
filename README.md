@@ -577,7 +577,7 @@ WORKFLOW_FILE_UPLOAD_LIMIT=10<br>
 </details>
 ## 技术交流群
 
-![image-20260204143234495](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/image-20260204143234495.png)
+![技术交流群](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Screenshot_20260210_085255_com.tencent.mm.jpg)
 
 ##  打赏
 
